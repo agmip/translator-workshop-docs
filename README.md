@@ -29,5 +29,5 @@ new version of the translator-dist.
 
 ## Inform the translator-dist of the new project
 * From the AgMIP github page, load up translator-dist
-* Click on __ISSUES__
+* Click on __Issues__
 * Create new issue with the name of your translator

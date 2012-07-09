@@ -17,7 +17,8 @@ new version of the translator-dist.
     <groupId>org.agmip.translators</groupId>
     <artifactId>translator-dist</artifactId>
     <version>0.6</version>
-</parent>```
+</parent>
+```
 
 
 ## Setup the Github Repository

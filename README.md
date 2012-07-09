@@ -17,7 +17,8 @@ new version of the translator-dist.
     <groupId>org.agmip.translators</groupId>
     <artifactId>translator-dist</artifactId>
     <version>0.6</version>
-</parent>```
+</parent>
+```
 
 
 ## Setup the Github Repository
@@ -25,6 +26,15 @@ new version of the translator-dist.
 * Name it ```translator-<model>```
 * Should be marked as Public
 * Click create
+* Follow the instructions on the site to hook them up to your computer
+
+## Setup the Github Client
+* Install the Github client
+    - [Windows](http://windows.github.com/)
+    - [Mac](http://mac.github.com/)
+* Setup your account
+* Add a new local Repository
+* Push to github
 
 ## Inform the translator-dist of the new project
 * From the AgMIP github page, load up translator-dist
